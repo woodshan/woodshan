@@ -20,7 +20,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" height="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" width="50px" height="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" width="50px" height="40px" />
-<img src="[https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Elementor_icon.svg)" width="50px" height="40px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Elementor_icon.svg" width="50px" height="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50px" height="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40px" height="40px" />
 </p>
