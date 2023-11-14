@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shan! 👋</h1>
+<h1 align="center">Hi, I'm Shan ! 👋</h1>
 
 <h2 align="center">🚀 About Me</h2>
 <li>
